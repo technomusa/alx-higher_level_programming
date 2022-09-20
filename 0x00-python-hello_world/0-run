@@ -1,5 +1,2 @@
-
-:wq
-:wq
-\
-
+#!/bin/bash
+python3 $PYFILE
